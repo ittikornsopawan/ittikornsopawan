@@ -1,0 +1,26 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.is-main,
+.is-section {
+  max-width: 100vw;
+  height: 100vh;
+  font-size: 60px;
+}
+
+.is-main {
+  overflow: auto;
+  scroll-snap-type: y mandatory;
+}
+
+.is-section {
+  scroll-snap-align: start;
+}
+
+.is-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

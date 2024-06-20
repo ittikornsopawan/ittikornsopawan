@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+@import url("./css/page.css");
+@import url("./css/nav.css");
+@import url("./css/gototop.css");
+@import url("./css/cursor.css");
+
+html,
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}

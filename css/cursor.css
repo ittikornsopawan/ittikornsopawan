@@ -1,0 +1,13 @@
+.circular-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  background-color: #ffffff;
+  opacity: 0.2; /* Set initial opacity to 0.1 (10% opacity) */
+  transition: width 0.5s ease, height 0.5s ease; /* Smooth transition for size change */
+}

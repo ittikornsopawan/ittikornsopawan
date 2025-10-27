@@ -1,74 +1,134 @@
-# Introduction
+# 👋 Hi, I'm Ittikorn Sopawan (Aof)
 
 ![Profile Picture](/img/profile.jpg)
 
-## About Me
-
-Hello! I'm Ittikorn Sopawan (Aof) 👋, a passionate and results-driven System Analyst with over [insert years of experience] years of experience in the tech industry. My expertise lies in designing and implementing innovative cloud billing systems for public cloud platforms like AWS, GCP, and Huawei. I thrive on transforming complex challenges into user-friendly solutions, ensuring that billing processes are efficient, transparent, and scalable.
-
-I have a strong background in software development, particularly in .NET technologies, where I have honed my skills in C# and VB.NET. My programming journey has equipped me with the ability to create clean, maintainable code, and I’m always eager to learn new languages and frameworks to enhance my skill set.
-
-## Skills
-
-### Technical Expertise
-
-- **🌩️ Cloud Billing Systems**: 
-   - Designed and deployed robust billing solutions across multiple cloud platforms, significantly increasing accuracy and reducing processing time by 30%.
-   - Experienced in integrating payment gateways and managing subscriptions, ensuring compliance with industry standards.
-
-- **💻 Programming Languages**: 
-   - Proficient in .NET (C#, VB.NET), Python, JavaScript, and TypeScript. My experience includes full-stack development, allowing me to contribute to both front-end and back-end projects.
-   - Strong grasp of MVC architecture, enabling effective separation of concerns and improved application maintainability.
-
-- **🗄️ Database Design**: 
-   - Skilled in creating flexible and scalable database schemas using MS SQL Server, MySQL, and PostgreSQL, ensuring optimal performance and data integrity.
-   - Adept at writing complex SQL queries for data analysis and reporting, helping stakeholders make informed decisions.
-
-- **🔗 API Design**: 
-   - Developed and documented RESTful APIs that facilitate seamless communication between services and enhance user experience.
-   - Focus on API security and versioning, ensuring robust and reliable integrations.
-
-### Collaborative Skills
-
-- **👥 Team Leadership**: 
-   - Proven track record of leading cross-functional teams in Agile environments, successfully guiding projects from inception to delivery.
-   - Mentored junior developers, fostering a culture of learning and collaboration.
-
-- **🤝 Stakeholder Engagement**: 
-   - Excellent communicator with the ability to translate technical concepts into layman’s terms, ensuring all stakeholders are aligned and informed.
-   - Regularly engage with Product Owners, users, and management to gather requirements and provide updates on project progress.
-
-- **💡 Continuous Improvement**: 
-   - Committed to professional growth, actively pursuing new technologies and methodologies to enhance project outcomes.
-   - Engaged in code reviews and process optimizations, leading to more efficient workflows.
-
-## Hobbies and Interests
-
-- **🎮 Gaming**: 
-   - An avid gamer who enjoys exploring various genres, with a keen interest in game design and development.
-   - Participates in gaming communities to share insights and learn from others.
-
-- **⚽ Football**: 
-   - A passionate football fan, regularly following the English Premier League, World Cup, and Euro matches. Enjoy analyzing team strategies and player performances.
-   - Actively engage in discussions and fantasy football leagues with friends.
-
-- **🍲 Culinary Adventures**: 
-   - Enthusiastic about discovering new cuisines and trying out different recipes. I love cooking for family and friends and experimenting with fusion dishes.
-   - Regularly explore local food markets and restaurants to discover hidden culinary gems.
-
-- **🎬 Film Enthusiast**: 
-   - Enjoy watching a wide range of films, from blockbusters to indie projects, and analyzing storytelling techniques and cinematography.
-   - Occasionally write reviews and share recommendations with fellow film buffs.
-
-## Contact
-
-I’d love to connect and explore potential collaborations! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ittikorn-sopawan/) or [email](mailto:ittikorn.sopawan@gmail.com).
-
-## Find Me Online
-
-- [🐙 GitHub](https://github.com/ittikornsopawan)
-- [🔗 LinkedIn](https://www.linkedin.com/in/ittikorn-sopawan/)
+> "Work isn’t just about doing my part — it’s about making a difference that truly improves the organization."
 
 ---
 
-Thank you for taking the time to visit my profile! I look forward to connecting and discussing how I can contribute to your team! 😊
+## 💡 About Me
+System Analyst with **6+ years of experience** in designing and implementing **large-scale systems** across **retail, logistics, and e-commerce** industries.  
+I specialize in transforming complex business requirements into **scalable, data-driven architectures** with strong focus on **clarity, collaboration, and technical precision**.
+
+- 🎯 Experienced in **Microservices**, **Domain-Driven Design (DDD)**, and **Event-Driven Design (EDD)**
+- 🧩 Skilled in **API specification**, **database schema design**, and **system workflow planning**
+- 🧠 Passionate about **AI**, **automation**, and **data-driven analysis**
+- 💻 Open to **System Analyst / Solution Architect** roles (Hybrid / Full-time)
+
+---
+
+## 🧰 Technical Skills
+
+### Programming & Frameworks
+- **Languages:** C#, JavaScript, TypeScript, Python  
+- **Backend:** .NET Core, .NET Framework, Node.js, Nest.js  
+- **Frontend:** Angular, jQuery, Bootstrap  
+- **Architectural Patterns:** Microservices, Domain-Driven Design (DDD), Event-Driven Design (EDD), CQRS  
+- **System Design & Integration:** API Design, Solution Architecture Design, System Workflow Planning  
+- **Design Principles:** SOLID, Clean Architecture, Separation of Concerns  
+
+### Databases
+- **SQL:** MySQL, MSSQL, PostgreSQL  
+- **Expertise:** Database Design, Stored Procedures, Performance Optimization  
+
+### API & System Design
+- RESTful API Design  
+- Solution Architecture Design  
+- System Workflow Mapping  
+
+### DevOps & Tools
+- **Containerization:** Docker, Kubernetes (k8s)
+- **Version Control:** Git, GitHub 
+- **Collaboration:** JIRA, Confluence, YouTrack, Clickup
+- **API Testing:** Postman
+- **IDEs:** Visual Studio, Visual Studio Code
+
+### AI & Automation
+- AI Prompt Engineering  
+- Data-Driven Analysis & Automation Concepts  
+
+---
+
+## 🧑‍💼 Professional Experience
+
+### **System Analyst / Supervisor** — Socket9 (Nov 2024 - Present)
+- Led design and architecture for a **Loyalty Platform** integrating e-coupons and assets.  
+- Translated requirements into **API specs** and **database schemas**.  
+- Supported e-Commerce and logistics projects from requirement to solution design.  
+- Acted as bridge between clients, BA, and developers ensuring alignment and quality delivery.
+
+### **System Analyst** — SCG TechX (Sept 2024 - Oct 2024)
+- Designed **disbursement module** specifications for a banking system.  
+- Defined component-level interactions using **React CLI** and **GraphQL**.  
+- Created data flow mappings within **Zoral** system for seamless integrations.
+
+### **Product Technical Solution** — Netbay (Jun 2024 - Aug 2024)
+- Supported pre-sales for **e-Tax**, **Online Signature**, and **e-Service** platforms.  
+- Translated client needs into **technical workflows** and **data integration specs**.
+
+### **Senior System Analyst** — True Internet Data Center (Nov 2022 - May 2024)
+- Designed **multi-cloud billing systems** across AWS, GCP, Huawei.  
+- Improved data accuracy from near-zero to **90%+** by reengineering ELT pipelines.  
+- Led cross-functional teams and standardized documentation for faster onboarding.
+
+### **System Analyst** — Buzzebees (Nov 2021 - Oct 2022)
+- Modernized legacy **.NET Framework** systems to **.NET Core 5**.  
+- Reduced integration errors by **30%+** via better API design.  
+- Enhanced workflow collaboration between business and development.
+
+### **System Analyst** — True e-Logistics (Aug 2021 - Oct 2021)
+- Translated requirements into **technical tickets** and provided **solution consulting**.  
+- Ensured technical alignment with business goals under Agile/Scrum.
+
+### **System Analyst** — True Corporation (Jan 2021 - Jul 2021)
+- Designed **Contract Renewal System** for True i-Service.  
+- Applied **DDD + Microservices Architecture** with API boundary definitions.
+
+### **System Analyst** — Puksa Real Estate (Aug 2019 - Dec 2020)
+- Built **role-based approval workflows** with **K2 Black Pearl**.  
+- Led full-stack development using **ASP.NET Core** and **SQL Server**.
+
+### **.NET Developer** — PTT Digital (Feb 2019 - Jul 2019)
+- Developed **access control system** using .NET MVC.  
+- Introduced **stored procedure optimizations** for better performance.
+
+### **.NET Developer** — Hoya Lens Thailand (Jan 2017 - Jan 2019)
+- Built **SSO system** using C#, VB, and MVC.  
+- Improved UI with **Bootstrap** and **jQuery**, enhancing UX and maintainability.
+
+---
+
+## 🧠 Soft Skills
+- Requirement Gathering & Analysis  
+- Process Optimization  
+- Cross-Functional Team Collaboration  
+- Technical Leadership & Mentorship  
+- Communication & Problem Solving  
+
+---
+
+## 🧩 Example Projects @GitHub
+- [🧾 Data Engineer Billing Project](https://github.com/ittikornsopawan/data-engineer-billing-project)  
+- [🎯 Microservices Loyalty Platform](https://github.com/ittikornsopawan/microservices-loyalty-platform)  
+- [🧱 Domain-Driven Design (IAM Schema)](https://github.com/ittikornsopawan/domain-driven-design-cqrs-architecture/blob/main/Service-Design/IAM-Schema.md)  
+- [📑 Service Design](https://github.com/ittikornsopawan/domain-driven-design-cqrs-architecture/blob/main/Service-Design/IAM.md)
+- [📘 API Specification Example](https://github.com/ittikornsopawan/example-specification/blob/main/api-spec.md)
+- [📘 OpenAPI](https://github.com/ittikornsopawan/domain-driven-design-cqrs-architecture/blob/main/Service-Design/IAM-OpenAPI.json)
+
+---
+
+## 🏀 Hobbies & Interests
+- 🧭 Traveling & Adventure  
+- 🏋️‍♂️ Basketball & Fitness  
+- 🎮 Gaming, 🎬 Movies, 🎵 Music  
+- 🐶 Dog Lover  
+- 🤖 Exploring AI & Machine Learning  
+
+---
+
+## 📬 Contact
+- **Email:** [ittikorn.sopawan@gmail.com](mailto:ittikorn.sopawan@gmail.com)  
+- **Phone:** (+66) 09 9116 1274  
+- **Location:** Bangkok, Thailand  
+- **Languages:** 🇹🇭 Thai (Native), 🇬🇧 English (Intermediate)
+

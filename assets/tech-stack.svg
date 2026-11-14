@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
+  <title id="title">Tech Stack</title>
+  <desc id="description">Technology names grouped by category in uppercase on a gradient background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.52" stop-color="#3730a3"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="24" fill="url(#background)"/>
+
+  <g fill="#e0e7ff" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">
+    <text x="44" y="48">LANGUAGES &amp; BACKEND</text>
+    <text x="44" y="154">FRONTEND &amp; MOBILE</text>
+    <text x="44" y="260">DATA &amp; CLOUD</text>
+    <text x="44" y="366">DELIVERY &amp; AI</text>
+  </g>
+
+  <g fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.22">
+    <rect x="44" y="66" width="62" height="42" rx="10"/>
+    <rect x="120" y="66" width="76" height="42" rx="10"/>
+    <rect x="210" y="66" width="104" height="42" rx="10"/>
+    <rect x="328" y="66" width="60" height="42" rx="10"/>
+    <rect x="402" y="66" width="112" height="42" rx="10"/>
+    <rect x="528" y="66" width="100" height="42" rx="10"/>
+
+    <rect x="44" y="172" width="84" height="42" rx="10"/>
+    <rect x="142" y="172" width="108" height="42" rx="10"/>
+    <rect x="264" y="172" width="104" height="42" rx="10"/>
+    <rect x="382" y="172" width="104" height="42" rx="10"/>
+    <rect x="500" y="172" width="146" height="42" rx="10"/>
+
+    <rect x="44" y="278" width="138" height="42" rx="10"/>
+    <rect x="196" y="278" width="86" height="42" rx="10"/>
+    <rect x="296" y="278" width="124" height="42" rx="10"/>
+    <rect x="434" y="278" width="78" height="42" rx="10"/>
+    <rect x="526" y="278" width="68" height="42" rx="10"/>
+    <rect x="608" y="278" width="146" height="42" rx="10"/>
+    <rect x="768" y="278" width="160" height="42" rx="10"/>
+    <rect x="942" y="278" width="148" height="42" rx="10"/>
+
+    <rect x="44" y="384" width="86" height="42" rx="10"/>
+    <rect x="144" y="384" width="138" height="42" rx="10"/>
+    <rect x="296" y="384" width="62" height="42" rx="10"/>
+    <rect x="372" y="384" width="80" height="42" rx="10"/>
+    <rect x="466" y="384" width="140" height="42" rx="10"/>
+    <rect x="620" y="384" width="84" height="42" rx="10"/>
+    <rect x="718" y="384" width="154" height="42" rx="10"/>
+  </g>
+
+  <g fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">
+    <text x="75" y="92">C#</text>
+    <text x="158" y="92">.NET</text>
+    <text x="262" y="92">PYTHON</text>
+    <text x="358" y="92">GO</text>
+    <text x="458" y="92">NODE.JS</text>
+    <text x="578" y="92">KOTLIN</text>
+
+    <text x="86" y="198">REACT</text>
+    <text x="196" y="198">ANGULAR</text>
+    <text x="316" y="198">NEXT.JS</text>
+    <text x="434" y="198">FLUTTER</text>
+    <text x="573" y="198">REACT NATIVE</text>
+
+    <text x="113" y="304">POSTGRESQL</text>
+    <text x="239" y="304">MYSQL</text>
+    <text x="358" y="304">SQL SERVER</text>
+    <text x="473" y="304">REDIS</text>
+    <text x="560" y="304">AWS</text>
+    <text x="681" y="304">GOOGLE CLOUD</text>
+    <text x="848" y="304">HUAWEI CLOUD</text>
+    <text x="1016" y="304">MICROSOFT AZURE</text>
+
+    <text x="87" y="410">DOCKER</text>
+    <text x="213" y="410">KUBERNETES</text>
+    <text x="327" y="410">GIT</text>
+    <text x="412" y="410">CI/CD</text>
+    <text x="536" y="410">CLAUDE CODE</text>
+    <text x="662" y="410">CODEX</text>
+    <text x="795" y="410">HERMES AGENT</text>
+  </g>
+</svg>

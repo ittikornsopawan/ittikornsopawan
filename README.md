@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="ITTIKORN SOPAWAN" width="100%">
+  <img src="assets/profile-header.svg" alt="Ittikorn Sopawan — Technical Product Owner, System Analyst, Solution Architect" width="100%">
 </p>
 
 <p align="center">
@@ -27,43 +27,9 @@
 
 ## 💻 Tech Stack
 
-### Languages & Backend
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,go,nodejs,kotlin&amp;perline=6&amp;theme=dark" alt="C#, .NET, Python, Go, Node.js, Kotlin">
-  </a>
+  <img src="assets/tech-stack.svg" alt="Languages and backend: C#, .NET, Python, Go, Node.js, Kotlin. Frontend and mobile: React, Angular, Next.js, Flutter, React Native. Data and cloud: PostgreSQL, MySQL, SQL Server, Redis, AWS, Google Cloud, Huawei Cloud, Microsoft Azure. Delivery and AI: Docker, Kubernetes, Git, CI/CD, Claude Code, Codex, Hermes Agent." width="100%">
 </p>
-
-### Frontend & Mobile
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,flutter&amp;perline=4&amp;theme=dark" alt="React, Angular, Next.js, Flutter">
-  </a>
-</p>
-
-<p align="center"><sub>Also experienced with React Native.</sub></p>
-
-### Data & Cloud
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,gcp,azure&amp;perline=6&amp;theme=dark" alt="PostgreSQL, MySQL, Redis, AWS, Google Cloud, Microsoft Azure">
-  </a>
-</p>
-
-<p align="center"><sub>Also: SQL Server · Huawei Cloud · ELT/ETL</sub></p>
-
-### Delivery & AI
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&amp;perline=3&amp;theme=dark" alt="Docker, Kubernetes, Git">
-  </a>
-</p>
-
-<p align="center"><sub>REST APIs · Microservices · CI/CD · Claude Code · Codex · Hermes Agent</sub></p>
 
 ## 💼 Experience
 

@@ -18,6 +18,8 @@
   </a>
 </p>
 
+> **My motto:** “I believe work isn't just about doing my part — it's about making a difference that truly improves the organization.”
+
 ## ✨ Highlights
 
 - Improved billing data accuracy from near-zero to **over 90%** through workflow redesign and validation.

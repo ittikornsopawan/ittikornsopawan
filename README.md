@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Abstract purple technology hero artwork" width="100%">
+  <img src="assets/hero.jpg" alt="Purple night city and creative workspace hero" width="100%">
 </p>
 
 <p align="center">

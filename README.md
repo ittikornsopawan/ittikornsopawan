@@ -160,22 +160,23 @@
 
 ## 🎬 Hobbies & Interests
 
-### 🍿 Anime & Manhwa
+### 📺 Anime & Manhwa
 
-- Enjoys watching Japanese anime.
-- Favorite manhwa: *Mercenary Enrollment*, *Solo Leveling*, and *Omniscient Reader*.
+- **Anime:** Enjoys watching Japanese anime.
+- **Manhwa favorites:** *Mercenary Enrollment*, *Solo Leveling*, and *Omniscient Reader*.
 
-### ⚽ Football & Sports
+### ⚽ Football & Basketball
 
-- Supports Liverpool FC and enjoys playing football and basketball.
+- **Football:** Supports Liverpool FC and enjoys playing the game.
+- **Basketball:** Enjoys playing basketball.
 
-### 🐶 Animal Lover
+### 🐾 Dogs & Cats
 
 - Loves dogs, and likes cats too.
 
-### 🍜 Food
+### 🍽️ Food & Drink
 
-- Loves good food; doesn't drink beer or alcohol.
+- Loves good food, but doesn't drink beer or alcohol.
 
 <p align="center">
   <img src="assets/footer.jpg" alt="Profile footer" width="100%">

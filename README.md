@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Ittikorn Sopawan — Technical Product Owner, System Analyst, Solution Architect" width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/hero.jpg" alt="Purple night city and creative workspace hero" width="100%">
+  <img src="assets/cover-hero.jpg" alt="Ittikorn Sopawan — Technical Product Owner, System Analyst, Solution Architect" width="100%">
 </p>
 
 <p align="center">
@@ -193,5 +189,5 @@ My family means a lot to me, and I love spending time with them and sharing the 
 In my free time, I enjoy exploring new product ideas and imagining how they could become something real. AI helps me discover and shape those ideas, and has become a practical part of how I work and live—making everyday tasks easier.
 
 <p align="center">
-  <img src="assets/footer.jpg" alt="Profile footer" width="100%">
+  <img src="assets/hero.jpg" alt="Purple night city and creative workspace hero" width="100%">
 </p>

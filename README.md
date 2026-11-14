@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ittikornsopawan">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ittikorn.sopawan@gmail.com">Email</a>
+  <a href="https://github.com/ittikornsopawan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:ittikorn.sopawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ittikorn-sopawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ## ✨ Highlights

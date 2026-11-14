@@ -35,19 +35,49 @@
 
 ### Languages & Backend
 
-<p><kbd>C#</kbd> <kbd>.NET</kbd> <kbd>PYTHON</kbd> <kbd>GO</kbd> <kbd>NODE.JS</kbd> <kbd>KOTLIN</kbd></p>
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
+</p>
 
 ### Frontend & Mobile
 
-<p><kbd>REACT</kbd> <kbd>ANGULAR</kbd> <kbd>NEXT.JS</kbd> <kbd>FLUTTER</kbd> <kbd>REACT NATIVE</kbd></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
+</p>
 
 ### Data & Cloud
 
-<p><kbd>POSTGRESQL</kbd> <kbd>MYSQL</kbd> <kbd>SQL SERVER</kbd> <kbd>REDIS</kbd> <kbd>AWS</kbd> <kbd>GOOGLE CLOUD</kbd> <kbd>HUAWEI CLOUD</kbd> <kbd>MICROSOFT AZURE</kbd></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Huawei_Cloud-C7000B?style=for-the-badge&amp;logo=huawei&amp;logoColor=white" alt="Huawei Cloud">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure">
+</p>
 
 ### Delivery & AI
 
-<p><kbd>DOCKER</kbd> <kbd>KUBERNETES</kbd> <kbd>GIT</kbd> <kbd>CI/CD</kbd> <kbd>CLAUDE CODE</kbd> <kbd>CODEX</kbd> <kbd>HERMES AGENT</kbd></p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Hermes_Agent-555555?style=for-the-badge" alt="Hermes Agent">
+</p>
 
 ## 💼 Experience
 

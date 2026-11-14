@@ -182,11 +182,11 @@
 
 ### ❤️ Family
 
-- Loves spending time with family.
+My family means a lot to me, and I love spending time with them and sharing the moments that matter.
 
-### 💡 Product Ideas & Creativity
+### 💡 Ideas & Possibilities
 
-- In my free time, I enjoy thinking up new product ideas, exploring possibilities, and imagining what I could create.
+When I have free time, my mind often wanders toward new possibilities. I enjoy imagining new products, exploring ideas, and thinking about how a spark of inspiration could become something real.
 
 <p align="center">
   <img src="assets/footer.jpg" alt="Profile footer" width="100%">

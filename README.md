@@ -54,13 +54,18 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
 </p>
 
-### Data & Cloud
+### Data
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+</p>
+
+### Cloud
+
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Huawei_Cloud-C7000B?style=for-the-badge&amp;logo=huawei&amp;logoColor=white" alt="Huawei Cloud">

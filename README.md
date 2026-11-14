@@ -19,14 +19,41 @@ I bridge business needs and technical execution, helping teams turn complex requ
 - **Technical delivery:** solution validation, technical documentation, Agile/Scrum collaboration, and team enablement.
 - **Data & AI:** ELT/ETL pipelines, billing data validation, AI-assisted workflows, and RAG applications.
 
-## 🧰 Technologies
+## 💻 Tech Stack
 
-- **Languages & backend:** C#, .NET, Python, Go, Node.js, Kotlin
-- **Frontend & mobile:** React, Angular, Next.js, Flutter, React Native
-- **Data:** PostgreSQL, MySQL, SQL Server, Redis, ELT/ETL
-- **Cloud & delivery:** AWS, Google Cloud, Huawei Cloud, Microsoft Azure, Docker, Kubernetes, Git, CI/CD
-- **Practices & architecture:** REST APIs, microservices, domain-driven design, Agile/Scrum, Waterfall
-- **AI-assisted tools:** Claude Code, Codex, Hermes Agent
+**Languages & Backend**<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Frontend & Mobile**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Data & Cloud**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Delivery & AI**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-555555?style=for-the-badge)
 
 ## 💼 Experience
 
@@ -43,9 +70,10 @@ I bridge business needs and technical execution, helping teams turn complex requ
 
 **Bachelor of Computer Engineering** — Rajamangala University of Technology Thanyaburi · 2013
 
-## 📫 Contact
+## 🌐 Socials
 
-- **Email:** [ittikorn.sopawan@gmail.com](mailto:ittikorn.sopawan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ittikornsopawan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ittikorn.sopawan@gmail.com)
 
 ---
 

@@ -3,17 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Ittikorn Sopawan — Technical Product Owner, System Analyst, Solution Architect" width="100%">
+  <img src="assets/profile-header.svg" alt="ITTIKORN SOPAWAN" width="100%">
 </p>
 
 <p align="center">
-  Turning complex business needs into clear systems, scalable products, and useful data solutions.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ittikornsopawan">🌐 GitHub</a>
+  <a href="https://github.com/ittikornsopawan">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="mailto:ittikorn.sopawan@gmail.com">✉️ Email</a>
+  <a href="mailto:ittikorn.sopawan@gmail.com">Email</a>
 </p>
 
 ## ✨ Highlights

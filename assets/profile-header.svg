@@ -1,23 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
-  <title id="title">Ittikorn Sopawan</title>
-  <desc id="description">Technical Product Owner, System Analyst, and Solution Architect</desc>
+  <title id="title">ITTIKORN SOPAWAN</title>
+  <desc id="description">Ittikorn Sopawan profile banner</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#111827"/>
-      <stop offset="0.52" stop-color="#4338ca"/>
-      <stop offset="1" stop-color="#0e7490"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a5b4fc"/>
-      <stop offset="1" stop-color="#67e8f9"/>
+      <stop offset="0.5" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#0891b2"/>
     </linearGradient>
   </defs>
   <rect width="1280" height="300" rx="28" fill="url(#background)"/>
-  <circle cx="1110" cy="70" r="190" fill="#ffffff" opacity="0.06"/>
-  <circle cx="1010" cy="290" r="150" fill="#67e8f9" opacity="0.11"/>
-  <path d="M860 0 1120 300M1010 0 1270 300" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
-  <text x="76" y="126" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700">Ittikorn Sopawan</text>
-  <text x="80" y="174" fill="#e0e7ff" font-family="Inter, Arial, sans-serif" font-size="23" letter-spacing="1">TECHNICAL PRODUCT OWNER · SYSTEM ANALYST · SOLUTION ARCHITECT</text>
-  <rect x="80" y="211" width="86" height="4" rx="2" fill="url(#accent)"/>
-  <text x="80" y="251" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="2">PRODUCT · SYSTEM DESIGN · AI-ENABLED WORKFLOWS</text>
+  <text x="640" y="168" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="4">ITTIKORN SOPAWAN</text>
 </svg>

@@ -178,6 +178,16 @@
 
 - Loves good food, but doesn't drink beer or alcohol.
 
+## 🌱 Beyond Work
+
+### ❤️ Family
+
+- Loves spending time with family.
+
+### 💡 Product Ideas & Creativity
+
+- In my free time, I enjoy thinking up new product ideas, exploring possibilities, and imagining what I could create.
+
 <p align="center">
   <img src="assets/footer.jpg" alt="Profile footer" width="100%">
 </p>

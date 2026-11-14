@@ -31,6 +31,23 @@
 - **System & solution architecture:** microservices, REST APIs, DDD, data models, and cross-platform integration.
 - **Data & AI:** ELT/ETL pipelines, data validation, AI-assisted workflows, and RAG applications.
 
+## 🌿 My MBTI
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="middle" width="55%">
+        <strong>INFP-T · The Mediator</strong>
+        <br><br>
+        Driven by values, empathy, and a genuine desire to make a meaningful difference.
+      </td>
+      <td align="center" valign="middle" width="45%">
+        <img src="assets/mediator-desktop.svg" alt="Illustration for the INFP-T Mediator profile" width="100%">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Tech Stack
 
 ### Languages & Backend

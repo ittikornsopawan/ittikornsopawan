@@ -18,7 +18,11 @@
   </a>
 </p>
 
-> **My motto:** “I believe work isn't just about doing my part — it's about making a difference that truly improves the organization.”
+## 💬 My Motto
+
+<p align="center">
+  <strong><em>“I believe work isn't just about doing my part — it's about making a difference that truly improves the organization.”</em></strong>
+</p>
 
 ## ✨ Highlights
 
@@ -33,22 +37,21 @@
 - **System & solution architecture:** microservices, REST APIs, DDD, data models, and cross-platform integration.
 - **Data & AI:** ELT/ETL pipelines, data validation, AI-assisted workflows, and RAG applications.
 
-## 🌿 My MBTI
+## 🌿 INFP-T - The Mediator
 
-<table>
-  <tbody>
-    <tr>
-      <td valign="middle" width="55%">
-        <strong>INFP-T · The Mediator</strong>
-        <br><br>
-        Driven by values, empathy, and a genuine desire to make a meaningful difference.
-      </td>
-      <td align="center" valign="middle" width="45%">
-        <img src="assets/mediator-desktop.svg" alt="Illustration for the INFP-T Mediator profile" width="100%">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="assets/mediator-desktop.svg" alt="Illustration for the INFP-T Mediator profile" width="80%">
+</p>
+
+<p align="center"><em>Driven by values, empathy, and a genuine desire to make a meaningful difference.</em></p>
+
+### Traits
+
+- **Empathetic** — Deeply values the feelings and needs of those around them.
+- **Idealistic** — Driven by a personal vision and desire to make things better.
+- **Principled** — Makes decisions guided by strong personal values and ethics.
+- **Collaborative** — Thrives when working toward a shared goal with a team.
+- **Adaptive** — Open to growth, feedback, and new ways of thinking.
 
 ## Tech Stack
 

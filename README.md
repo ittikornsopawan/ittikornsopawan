@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ittikorn.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio website">
+  </a>
   <a href="https://github.com/ittikornsopawan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
   </a>

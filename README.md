@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/profile-hero.svg" alt="Abstract purple technology hero artwork" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/ittikornsopawan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
   </a>

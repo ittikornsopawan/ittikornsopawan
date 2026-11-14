@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB">
 </p>
 
 ### Cloud
@@ -82,6 +84,15 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code">
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/Hermes_Agent-555555?style=for-the-badge" alt="Hermes Agent">
+</p>
+
+### Architecture & System Types
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge" alt="Microservices">
+  <img src="https://img.shields.io/badge/Monolith-526D82?style=for-the-badge" alt="Monolith">
+  <img src="https://img.shields.io/badge/Legacy_Systems-6B7280?style=for-the-badge" alt="Legacy Systems">
+  <img src="https://img.shields.io/badge/Legacy_Modernization-7C3AED?style=for-the-badge" alt="Legacy Modernization">
 </p>
 
 ## 💼 Experience

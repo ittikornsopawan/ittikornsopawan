@@ -37,22 +37,6 @@
 - **System & solution architecture:** microservices, REST APIs, DDD, data models, and cross-platform integration.
 - **Data & AI:** ELT/ETL pipelines, data validation, AI-assisted workflows, and RAG applications.
 
-## 🌿 INFP-T - The Mediator
-
-<p align="center">
-  <img src="assets/mediator-desktop.svg" alt="Illustration for the INFP-T Mediator profile" width="80%">
-</p>
-
-<p align="center"><em>Driven by values, empathy, and a genuine desire to make a meaningful difference.</em></p>
-
-### Traits
-
-- **Empathetic** — Deeply values the feelings and needs of those around them.
-- **Idealistic** — Driven by a personal vision and desire to make things better.
-- **Principled** — Makes decisions guided by strong personal values and ethics.
-- **Collaborative** — Thrives when working toward a shared goal with a team.
-- **Adaptive** — Open to growth, feedback, and new ways of thinking.
-
 ## Tech Stack
 
 ### Languages & Backend
@@ -157,6 +141,41 @@
 ## 🎓 Education
 
 **Bachelor of Computer Engineering** · Rajamangala University of Technology Thanyaburi · 2013
+
+## 🎬 Hobbies & Interests
+
+### 🍿 Anime & Manhwa
+
+- Enjoys watching Japanese anime.
+- Favorite manhwa: *Mercenary Enrollment*, *Solo Leveling*, and *Omniscient Reader*.
+
+### ⚽ Football & Sports
+
+- Supports Liverpool FC and enjoys playing football and basketball.
+
+### 🐶 Animal Lover
+
+- Loves dogs, and likes cats too.
+
+### 🍜 Food
+
+- Loves good food; doesn't drink beer or alcohol.
+
+## 🌿 INFP-T - The Mediator
+
+<p align="center">
+  <img src="assets/mediator-desktop.svg" alt="Illustration for the INFP-T Mediator profile" width="80%">
+</p>
+
+<p align="center"><em>Driven by values, empathy, and a genuine desire to make a meaningful difference.</em></p>
+
+### Traits
+
+- **Empathetic** — Deeply values the feelings and needs of those around them.
+- **Idealistic** — Driven by a personal vision and desire to make things better.
+- **Principled** — Makes decisions guided by strong personal values and ethics.
+- **Collaborative** — Thrives when working toward a shared goal with a team.
+- **Adaptive** — Open to growth, feedback, and new ways of thinking.
 
 <p align="center">
   <img src="assets/footer.jpg" alt="Profile footer" width="100%">
